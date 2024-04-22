@@ -1,0 +1,54 @@
+2024-04-20 09:23:01,877 [INFO] Activator:179 - 
+
+
+2024-04-20 09:23:01,885 [INFO] Activator:180 - !SESSION log4j initialized
+2024-04-20 09:23:13,188 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:23:13,192 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:23:13,192 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:23:15,408 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.145160693 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:23:15,672 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1408501223 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:23:19,271 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:23:19,275 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:23:19,279 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:23:39,200 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:23:39,204 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:23:39,240 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:25:24,070 [INFO] Activator:179 - 
+
+
+2024-04-20 09:25:24,074 [INFO] Activator:180 - !SESSION log4j initialized
+2024-04-20 09:25:25,905 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.145160693 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:25:26,225 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1408501223 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:25:42,218 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:25:42,226 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:25:42,230 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:25:50,113 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:25:50,117 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:25:50,117 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:26:29,859 [INFO] Activator:179 - 
+
+
+2024-04-20 09:26:29,859 [INFO] Activator:180 - !SESSION log4j initialized
+2024-04-20 09:26:31,890 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.145160693 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:26:32,206 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1408501223 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:26:50,428 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:26:50,440 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:26:50,440 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:27:49,856 [INFO] Activator:179 - 
+
+
+2024-04-20 09:27:49,860 [INFO] Activator:180 - !SESSION log4j initialized
+2024-04-20 09:27:51,695 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.145160693 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:27:52,043 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1408501223 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:33:40,815 [INFO] Activator:179 - 
+
+
+2024-04-20 09:33:40,819 [INFO] Activator:180 - !SESSION log4j initialized
+2024-04-20 09:33:42,560 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.145160693 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:33:42,881 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Managed Build system manifest file error: Option com.st.stm32cube.ide.mcu.debug.option.cpuclock.1408501223 uses a null category that is invalid in its context. The option was ignored.
+2024-04-20 09:33:58,363 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:33:58,367 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:33:58,367 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:34:11,359 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:34:11,363 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
+2024-04-20 09:34:11,363 [ERROR] ConfigurationRetriever:140 - IOException on connection: citools.st.com
